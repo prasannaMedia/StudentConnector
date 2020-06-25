@@ -1,0 +1,6 @@
+{
+  "jwtSecret": "mysecrettoken",
+  "githubClientid": "e34a50ad4a8ca18ff80b",
+  "githubSecret": "3bb8f6842a3468885959ea0232bd1c5aab87f92b",
+  "mongoURI": "mongodb+srv://prasanna:1234@cluster0-6if5v.mongodb.net/test?retryWrites=tr`ue&w=majority"
+}
