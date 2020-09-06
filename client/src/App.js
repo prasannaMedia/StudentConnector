@@ -22,7 +22,7 @@ import Profiles from "./components/Profiles/Profiles";
 import Profile from "./components/profile/Profile";
 import Posts from "./components/Posts/Posts";
 import Post from "./components/Post/Post";
-//" mongodb://localhost:27017/dev"
+
 if (localStorage.token) {
   setAuthToken(localStorage.token);
 }
